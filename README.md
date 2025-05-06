@@ -1,13 +1,13 @@
 # Calculator
 
-# tools
--React
--TailwindCss
--JavaScript
--CRA
+## tools
+###-React
+###-TailwindCss
+###-JavaScript
+###-CRA
 
 # prerequisite
--install Node.js (Version 14 or higher)
+-install Node.js (Version 22.14.0)
 - install npm (Usually comes with Node.js)
 
 # Install and run
